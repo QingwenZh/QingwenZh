@@ -1,5 +1,5 @@
 -  Hi, I’m Ching
 -  I’m interested in oceanography and computer programming (compile language: python, matlab, and fortran)
--  I’m currently investigating the intermediate-deep ocean circulation.
--  I’m looking to collaborate on ocean data and machine learning or AI.
+-  I’m currently investigating the intermediate-deep ocean circulation
+-  I’m looking to collaborate on ocean data and machine learning or AI
 -  How to reach me qingwenchung@gmail.com
